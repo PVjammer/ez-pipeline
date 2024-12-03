@@ -1,0 +1,9 @@
+*/**/*.log
+*/**/*.json
+*/**/__pycache__
+*/**/volumes
+*/**/*.egg-info
+*/**/*.debug.log
+build
+*.egg-info
+.env
